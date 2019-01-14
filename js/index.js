@@ -1,5 +1,4 @@
-// use this to copy code snippets or us your browser's console
-function greet() {
+unction greet() {
     console.log(`my name is ${this.name}, hi!`);
 }
 
